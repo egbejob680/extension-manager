@@ -62,10 +62,10 @@ npm run build
 
 ## 📸 Screenshots
 ### Light Mode
-![Light mode screenshot](./screenshots/light.png)
+![Light mode screenshot](./Screenshots/extension-light.png)
 
 ### Dark Mode
-![Dark mode screenshot](./screenshots/dark.png)
+![Dark mode screenshot](./Screenshots/extension-dark.png)
 
 ---
 
